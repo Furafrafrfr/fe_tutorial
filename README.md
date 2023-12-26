@@ -1,6 +1,11 @@
 # ReactとReduxの説明用
 
+Node.jsのv18以降が必要
+
 ```sh
+# 必要なパッケージのインストール
+npm install
+
 # http://localhost:5173で開発サーバー起動
 npm run dev
 ```
